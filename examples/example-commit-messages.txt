@@ -1,1 +1,14 @@
+✅ GOOD COMMIT MESSAGES
+
+- Add rose, tulip, and sunflower files
+- Fix typo in mission.txt
+- Organize files into tasks and logs
+- Add Day 1 journal entry
+
+🚫 BAD COMMIT MESSAGES
+
+- fix
+- updated stuff
+- random changes
+- done
 
