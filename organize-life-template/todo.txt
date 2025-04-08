@@ -1,1 +1,4 @@
+- Finish Git garden
+- Push journal
+- Share links in README
 
