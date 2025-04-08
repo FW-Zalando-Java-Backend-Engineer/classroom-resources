@@ -1,1 +1,10 @@
+# Basic Bash Commands for Git Projects
+
+mkdir folder-name      # Create a folder
+cd folder-name         # Move into the folder
+touch file.txt         # Create a file
+echo "text" > file.txt # Add text to a file
+cat file.txt           # Display file contents
+mv file1.txt new/      # Move file to folder
+cp file.txt copy.txt   # Copy a file
 
