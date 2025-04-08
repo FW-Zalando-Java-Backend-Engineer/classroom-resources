@@ -1,1 +1,5 @@
+Day 1: Learned how to use Git!
 
+Day 2: Practiced Bash commands and committed changes.
+
+Day 3: Pushed my journal to GitHub.
